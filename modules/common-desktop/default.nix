@@ -1,0 +1,8 @@
+{ config, ... }:
+
+{
+  imports = [
+    ./environment
+    ./nix
+  ];
+}
