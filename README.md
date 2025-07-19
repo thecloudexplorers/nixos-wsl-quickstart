@@ -11,7 +11,7 @@ Maybe you fall in love with it and decide to setup a dedicated machine with NixO
 O.K., now how about that quickstart?
 
 - Reference the [NixOS-WSL installation instructions](/docs/nixos-wsl-install.md) to install right away.
-  - Take not of the specific instructions for changing your user-name. It is the only part of the process that requires a delicate touch. (Fortunately you can reinstall quickly if you mess it up.)
+  - Take note of the specific instructions for changing your user-name. It is the only part of the process that requires a delicate touch. (Fortunately you can reinstall quickly if you mess it up.)
 - Learn about some NixOS basics to get you started with:
   - [NixOS in general](https://nixos.wiki/wiki/Overview_of_the_NixOS_Linux_distribution)
   - [The Nix Language](https://nix.dev/tutorials/nix-language)
